@@ -1,0 +1,10 @@
+[package]
+name = "wat-rust-cgi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+maud = "0.26.0"
+rust-cgi = "0.7.1"
+size = "0.4.1"
+sysinfo = "0.31.4"
